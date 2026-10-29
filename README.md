@@ -18,7 +18,7 @@ T1110 — Brute Force), investigated, and written up as a full incident report.
 
 ## Architecture
 
-![Architecture](docs/architecture.md)
+See [`docs/architecture.md`](docs/architecture.md) for the full architecture breakdown.
 
 - **wazuh-server** (Ubuntu 24.04 ARM64) — Wazuh manager, indexer, dashboard
 - **win11-victim** (Windows 11) — Sysmon + Wazuh agent
