@@ -94,7 +94,7 @@ incident report: `report/incident-report.md`
 See `docs/architecture.md` and the Teardown section of the incident report for VM
 snapshot/deletion steps once the lab is no longer needed.
 
-## Interview Talking Points
+## Notes
 
 1. **ARM64 driver architecture mismatch:** Sysmon's x64 binary failed to load its
    kernel driver on Windows 11 ARM64 — diagnosed via Windows service/driver state
